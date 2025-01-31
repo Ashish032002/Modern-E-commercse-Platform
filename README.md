@@ -117,42 +117,10 @@ PUT    /api/products/:id - Update product
 DELETE /api/products/:id - Delete product
 ```
 
-## 🤝 Contributing
 
-We love your input! Check out our [Contributing Guidelines](CONTRIBUTING.md) to get started.
-
-1. 🍴 Fork the repository
-2. 🌿 Create your feature branch (`git checkout -b feature/amazing`)
-3. 💫 Commit changes (`git commit -m 'Add amazing feature'`)
-4. 🚀 Push to branch (`git push origin feature/amazing`)
-5. 🔄 Open a Pull Request
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Authors
-
-- **Your Name** - *Initial work* - [GitHub Profile](https://github.com/yourusername)
 
 ## 🙏 Acknowledgments
 
-- Hat tip to anyone whose code was used
 - Material-UI for the amazing component library
 - The MERN stack community
 
-## 📞 Support
-
-Got questions? We're here to help!
-
-- 📧 Email: support@shopvista.com
-- 💬 Discord: [Join our server](https://discord.gg/shopvista)
-- 🐦 Twitter: [@shopvista](https://twitter.com/shopvista)
-
----
-
-<div align="center">
-  Made with ❤️ by the ShopVista team
-  
-  ⭐ Star us on GitHub — it helps!
-</div>
