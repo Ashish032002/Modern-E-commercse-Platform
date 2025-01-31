@@ -27,25 +27,58 @@
 - 📦 **State Management**: Redux + Zustand
 - 🎨 **Styling**: Tailwind CSS + Material-UI
 
-'''
-  shopvista/
-├── client/                 # React frontend
+
+## 📂 Project Structure
+
+```
+shopvista/
+├── client/                      # Frontend React Application
 │   ├── public/
 │   └── src/
 │       ├── components/
-│       ├── context/
-│       ├── hooks/
-│       ├── pages/
-│       ├── services/
-│       └── utils/
-├── server/                 # Node/Express backend
-│   ├── config/
-│   ├── controllers/
-│   ├── middleware/
-│   ├── models/
-    ├── routes/
-    └── utils/
- '''                
+│       │   ├── common/         # Shared components
+│       │   ├── products/       # Product related components
+│       │   ├── cart/           # Cart related components
+│       │   └── auth/           # Authentication components
+│       │
+│       ├── pages/              # Main page components
+│       ├── hooks/              # Custom React hooks
+│       ├── context/            # React Context
+│       ├── services/           # API services
+│       ├── utils/              # Helper functions
+│       ├── App.js
+│       └── index.js
+│
+├── server/                      # Backend Node/Express Application
+│   ├── config/                 # Configuration files
+│   ├── controllers/            # Route controllers
+│   ├── middleware/             # Custom middleware
+│   ├── models/                 # Database models
+│   ├── routes/                 # API routes
+│   ├── utils/                  # Helper functions
+│   ├── .env
+│   └── server.js
+│
+├── docs/                        # Documentation
+├── README.md
+└── docker-compose.yml
+```
+
+### 📱 Frontend Structure
+- `components/`: Reusable UI components
+- `pages/`: Main application pages
+- `services/`: API integration and services
+- `hooks/`: Custom React hooks
+- `context/`: React Context for state management
+- `utils/`: Helper functions and utilities
+
+### 🔧 Backend Structure
+- `controllers/`: Business logic and request handling
+- `models/`: Database schemas and models
+- `routes/`: API endpoint definitions
+- `middleware/`: Custom Express middleware
+- `config/`: Configuration files
+- `utils/`: Utility functions               
 
 ## 🛠️ Installation & Setup
 
