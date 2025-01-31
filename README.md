@@ -83,13 +83,6 @@ cd ../client
 npm start
 ```
 
-## 📱 Screenshots
-
-<div align="center">
-  <img src="docs/screenshot1.png" alt="Home Page" width="400"/>
-  <img src="docs/screenshot2.png" alt="Product Page" width="400"/>
-</div>
-
 ## 🌟 Key Features Explained
 
 ### 🛒 Shopping Cart
