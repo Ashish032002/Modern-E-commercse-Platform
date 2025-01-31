@@ -27,6 +27,25 @@
 - 📦 **State Management**: Redux + Zustand
 - 🎨 **Styling**: Tailwind CSS + Material-UI
 
+  shopvista/
+├── client/                 # React frontend
+│   ├── public/
+│   └── src/
+│       ├── components/
+│       ├── context/
+│       ├── hooks/
+│       ├── pages/
+│       ├── services/
+│       └── utils/
+├── server/                 # Node/Express backend
+│   ├── config/
+│   ├── controllers/
+│   ├── middleware/
+│   ├── models/
+    ├── routes/
+    └── utils/
+                 
+
 ## 🛠️ Installation & Setup
 
 ### Prerequisites
