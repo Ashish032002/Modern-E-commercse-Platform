@@ -27,6 +27,7 @@
 - 📦 **State Management**: Redux + Zustand
 - 🎨 **Styling**: Tailwind CSS + Material-UI
 
+'''
   shopvista/
 ├── client/                 # React frontend
 │   ├── public/
@@ -44,7 +45,7 @@
 │   ├── models/
     ├── routes/
     └── utils/
-                 
+ '''                
 
 ## 🛠️ Installation & Setup
 
